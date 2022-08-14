@@ -10,6 +10,6 @@ def s1():
     return student['21pc14']
 @app.route("/students/21pc22")
 def s2():
-    return student['21pc14']
+    return student['21pc22']
 if __name__=="__main__":
     app.run()
